@@ -1,0 +1,123 @@
+
+body {
+	font: 80% arial, helvetica, sans-serif;
+	background: #4c0303 ;
+	margin: 0;
+}
+
+#header {
+	background: #4c0303 url(../images/honlapra_felirat_3.gif);
+	background-repeat: no-repeat;
+	height: 60px;
+	margin: 0 0 0 11px;
+}
+
+#header img {
+	float: right;
+}
+
+#footer {
+	background: #4c0303;
+	height: 3.3em;
+	border-left: 3px solid #c3c3c3;
+	border-right: 3px solid #c3c3c3;
+	text-align: center;
+}
+#navigation {
+	float: left;
+	width: 180px;
+	color: white;
+}
+
+#navigation ul {
+	text-align: left;
+	margin: 0 0 1px 0;
+	padding: 0;
+	list-style: none;
+}
+
+#navigation ul a {
+	color: #4c0303;
+	text-decoration: none;
+	display: block;
+	background: #fff;
+	padding: 0 0.5em;
+	margin: 0 1em 1px 1em;
+}
+
+#navigation a:visited {
+	color: #4c0303;
+}
+
+#navigation a:hover {
+	background: #eee;
+}
+
+#content {
+	text-align: justify;
+	background: white;
+	padding: 1px 20px 1em 20px;
+	border-left: 180px solid #c3c3c3;
+	margin: 0 0 0 0;
+
+}
+#content a {
+	color: #4c0303;
+}
+#content li {
+	color: #4c0303;
+	text-decoration: none;
+}
+#content li a{
+	color: #4c0303;
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 1.5em;
+	color: #4c0303;
+}
+
+h2 {
+	font-size: 1.25em;
+	color: #4c0303;
+}
+
+h3 {
+	font-size: 1em;
+	color: #4c0303;
+}
+h5 {
+	font-size: 1em;
+	color: #4c0303;
+}
+.text1 {
+	font: 80% arial, helvetica, sans-serif;
+	font-size: 11px;
+	color: #fff;
+}
+.datum {
+	font: 80% arial, helvetica, sans-serif;
+	font-size: 10px;
+	color: #4c0303;
+}
+#content img {
+	padding: 1px;
+	border: 1px solid #4c0303;
+	float: right;
+	margin: 0 0 1em 1em;
+}
+#content object {
+	padding: 1px;
+	border: 1px solid #4c0303;
+	float: right;
+	margin: 0 0 1em 1em;
+}
+#container {
+	width: 786px; /* width + border for IE 5.x */
+	w\idth: 780px; /* real width */
+	border: solid #c3c3c3;
+	border-width: 3px 3px;
+	margin: auto;
+}
+ 
